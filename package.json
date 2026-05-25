@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^2.106.2",
+    "dotenv": "^17.4.2",
+    "pdfkit": "^0.18.0",
+    "telegraf": "^4.16.3"
+  },
+  "type": "module"
+}
